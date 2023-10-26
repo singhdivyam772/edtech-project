@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/edtech-project/static/css/main.b60b0e7e.css",
+    "main.js": "/edtech-project/static/js/main.62cbd367.js",
+    "static/media/signup.png": "/edtech-project/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/edtech-project/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/edtech-project/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/edtech-project/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/edtech-project/index.html",
+    "main.b60b0e7e.css.map": "/edtech-project/static/css/main.b60b0e7e.css.map",
+    "main.62cbd367.js.map": "/edtech-project/static/js/main.62cbd367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60b0e7e.css",
+    "static/js/main.62cbd367.js"
+  ]
+}
