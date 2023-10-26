@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edtech-project/static/css/main.073c9b0a.css",
+    "main.js": "/edtech-project/static/js/main.54277093.js",
+    "index.html": "/edtech-project/index.html",
+    "main.073c9b0a.css.map": "/edtech-project/static/css/main.073c9b0a.css.map",
+    "main.54277093.js.map": "/edtech-project/static/js/main.54277093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.54277093.js"
+  ]
+}
